@@ -1,0 +1,4 @@
+# ignore class
+*.class
+*.DS_Store
+*.swp
